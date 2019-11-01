@@ -1,2 +1,3 @@
-# SwiftJsonParsingTesting
+# SwiftJsonParsing
 Parsing through JSON Code
+
